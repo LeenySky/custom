@@ -1,0 +1,16 @@
+{ 
+   "id" : "plugin#1_Miscreated.Lips", 
+   "enabled" : "true", 
+   "Use Interpolation" : "false", 
+   "Lip Length" : "1.1", 
+   "Lip Radius" : "0.7", 
+   "Bounciness" : "0", 
+   "Dynamic Friction" : "0.6", 
+   "Static Friction" : "0.6", 
+   "Rigidbody Weight" : "0.1", 
+   "Rigidbody Drag" : "0", 
+   "Lip Str" : "1", 
+   "Lip Damper" : "1", 
+   "Friction Combine" : "Average", 
+   "Bounce Combine" : "Average"
+}

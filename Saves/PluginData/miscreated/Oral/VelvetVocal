@@ -1,0 +1,16 @@
+{ 
+   "id" : "plugin#2_Miscreated.OralManager", 
+   "enabled" : "true", 
+   "Use interpolation" : "false", 
+   "Lip Length" : "1.8", 
+   "Lip Radius" : "1.1", 
+   "Bounciness" : "0", 
+   "Dynamic Friction" : "0.6", 
+   "Static Friction" : "0.6", 
+   "Rigidbody Weight" : "0.025", 
+   "Rigidbody Drag" : "0", 
+   "Lip Str" : "1.3", 
+   "Lip Damper" : "1.2", 
+   "Friction Combine" : "Average", 
+   "Bounce Combine" : "Average"
+}
